@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    const float speed = 5f;
+    const float speed = 8f;
     public int player;
 
     public PlayerMovement(int player)

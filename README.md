@@ -1,5 +1,5 @@
 # Unity Pong
-This is one of my first game in Unity engine. It is the excited Pong Game!!
+This is one of my first game in Unity engine. It is the exciting Game of Pong!!
 
 ## Controls 🎮
 - P1 or Left Player can play with W and S keyboard caps.
